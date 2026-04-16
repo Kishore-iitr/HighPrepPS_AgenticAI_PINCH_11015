@@ -1,0 +1,22 @@
+platform,community_name,category,members_count,engagement_score,location_focus,link
+Discord,AI Builders India,AI/ML,15000,9,India,https://discord.gg/aibuilders
+Discord,Data Science Community,AI/ML,12000,8,Global,https://discord.gg/datascience
+Slack,ML Engineers Hub,AI/ML,8000,7,Global,https://mlengineers.slack.com
+LinkedIn,AI & Machine Learning Group,AI/ML,50000,8,Global,https://linkedin.com/groups/ai-ml
+LinkedIn,Bangalore Tech Professionals,Tech,30000,7,Bangalore,https://linkedin.com/groups/blore-tech
+Facebook,AI India Community,AI/ML,40000,6,India,https://facebook.com/groups/aiindia
+Discord,Startup Founders Hub,Startup,10000,8,Global,https://discord.gg/startup
+Slack,SaaS Builders,Startup,7000,7,Global,https://saasbuilders.slack.com
+LinkedIn,Startup India Network,Startup,60000,8,India,https://linkedin.com/groups/startupindia
+Facebook,Entrepreneurs India,Startup,45000,6,India,https://facebook.com/groups/entrepreneurs
+Discord,Deep Learning Lab,AI/ML,9000,9,Global,https://discord.gg/dl
+Slack,Data Analysts Group,Data,6000,6,Global,https://dataanalysts.slack.com
+LinkedIn,Data Science Bangalore,Data,20000,7,Bangalore,https://linkedin.com/groups/ds-blr
+Facebook,Machine Learning Enthusiasts,AI/ML,35000,6,Global,https://facebook.com/groups/ml
+Discord,GenAI Creators,AI/ML,11000,9,Global,https://discord.gg/genai
+LinkedIn,AI Startups Network,Startup,25000,8,Global,https://linkedin.com/groups/ai-startups
+Slack,Product Managers Hub,Product,5000,6,Global,https://pmhub.slack.com
+Facebook,Tech Jobs India,Tech,70000,5,India,https://facebook.com/groups/techjobs
+Discord,Hackathon Community,Tech,13000,8,India,https://discord.gg/hackathon
+LinkedIn,Developers Circle Bangalore,Tech,22000,7,Bangalore,https://linkedin.com/groups/dev-blr
+ 

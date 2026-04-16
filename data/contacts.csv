@@ -1,0 +1,21 @@
+name,company,role,type,industry,email,linkedin,relevance_score
+Andrew Ng,Landing AI,CEO,speaker,AI,user0@example.com,https://linkedin.com/in/user0,0.77
+Fei-Fei Li,Stanford,Professor,sponsor,Startup,user1@example.com,https://linkedin.com/in/user1,0.91
+Demis Hassabis,DeepMind,CEO,sponsor,AI,user2@example.com,https://linkedin.com/in/user2,0.89
+Anima Anandkumar,Caltech,Professor,sponsor,ML,user3@example.com,https://linkedin.com/in/user3,0.85
+Satya Nadella,Microsoft,CEO,speaker,Tech,user4@example.com,https://linkedin.com/in/user4,0.73
+Sundar Pichai,Google,CEO,community,Research,user5@example.com,https://linkedin.com/in/user5,0.79
+Elon Musk,Tesla,CEO,sponsor,Startup,user6@example.com,https://linkedin.com/in/user6,0.88
+Sam Altman,OpenAI,CEO,sponsor,AI,user7@example.com,https://linkedin.com/in/user7,0.86
+Aravind Srinivas,Perplexity,CEO,sponsor,ML,user8@example.com,https://linkedin.com/in/user8,0.76
+Nandan Nilekani,Infosys,Chairman,speaker,Tech,user9@example.com,https://linkedin.com/in/user9,0.81
+DeepMind Rep,DeepMind,Research Lead,community,Research,user10@example.com,https://linkedin.com/in/user10,0.87
+OpenAI Rep,OpenAI,Research Lead,speaker,AI,user11@example.com,https://linkedin.com/in/user11,0.83
+Google AI Rep,Google,AI Lead,sponsor,Startup,user12@example.com,https://linkedin.com/in/user12,0.74
+Microsoft AI Lead,Microsoft,AI Lead,speaker,Research,user13@example.com,https://linkedin.com/in/user13,0.95
+NVIDIA AI Lead,NVIDIA,AI Lead,community,AI,user14@example.com,https://linkedin.com/in/user14,0.72
+Startup Founder 1,Stealth Startup,Founder,sponsor,Research,user15@example.com,https://linkedin.com/in/user15,0.82
+Startup Founder 2,AI Startup,Founder,speaker,ML,user16@example.com,https://linkedin.com/in/user16,0.92
+AI Researcher 1,Research Lab,Researcher,speaker,Startup,user17@example.com,https://linkedin.com/in/user17,0.8
+AI Researcher 2,AI Lab,Researcher,speaker,AI,user18@example.com,https://linkedin.com/in/user18,0.73
+ML Engineer 1,Tech Corp,Engineer,sponsor,ML,user19@example.com,https://linkedin.com/in/user19,0.93

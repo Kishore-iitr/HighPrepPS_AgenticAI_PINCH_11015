@@ -1,0 +1,21 @@
+venue_name,city,country,capacity,estimated_cost,past_events,venue_type,setup_type
+Bangalore Intl Expo Center,Bangalore,India,5766,4500000,"AI Conference 16, AI Conference 13, AI Conference 2",Hotel Conference,Outdoor
+Delhi Convention Center,Delhi,India,7289,4100000,"AI Conference 11, AI Conference 17, AI Conference 7",Expo Hall,Hybrid
+Mumbai Expo Hall,Mumbai,India,5611,5000000,"AI Conference 8, AI Conference 16, AI Conference 9",Convention Center,Hybrid
+Hyderabad HITEX,Hyderabad,India,4338,4000000,"AI Conference 10, AI Conference 6, AI Conference 12",Convention Center,Outdoor
+Chennai Trade Center,Chennai,India,8749,1700000,"AI Conference 2, AI Conference 16, AI Conference 10",Convention Center,Outdoor
+Pragati Maidan,Delhi,India,3611,2800000,"AI Conference 3, AI Conference 19, AI Conference 7",Convention Center,Outdoor
+London ExCeL,London,UK,3419,4300000,"AI Conference 14, AI Conference 12, AI Conference 8",Hotel Conference,Hybrid
+Olympia London,London,UK,7049,1600000,"AI Conference 1, AI Conference 5, AI Conference 16",Hotel Conference,Outdoor
+Berlin ExpoCenter City,Berlin,Germany,5208,2600000,"AI Conference 13, AI Conference 6, AI Conference 11",Convention Center,Hybrid
+Amsterdam RAI,Amsterdam,Netherlands,9380,4300000,"AI Conference 4, AI Conference 8, AI Conference 12",Hotel Conference,Outdoor
+Dubai World Trade Centre,Dubai,UAE,7703,4000000,"AI Conference 7, AI Conference 19, AI Conference 8",Convention Center,Outdoor
+Singapore Expo,Singapore,Singapore,7269,800000,"AI Conference 7, AI Conference 5, AI Conference 16",Convention Center,Indoor
+Marina Bay Sands Convention,Singapore,Singapore,9157,1700000,"AI Conference 6, AI Conference 18, AI Conference 4",Expo Hall,Outdoor
+San Francisco Moscone Center,San Francisco,USA,2830,4000000,"AI Conference 12, AI Conference 18, AI Conference 11",Expo Hall,Hybrid
+Las Vegas Convention Center,Las Vegas,USA,8381,2200000,"AI Conference 17, AI Conference 18, AI Conference 5",Convention Center,Hybrid
+New York Javits Center,New York,USA,3736,4300000,"AI Conference 3, AI Conference 11, AI Conference 6",Convention Center,Indoor
+Boston Convention Center,Boston,USA,8322,3200000,"AI Conference 15, AI Conference 17, AI Conference 9",Hotel Conference,Outdoor
+Los Angeles Convention Center,Los Angeles,USA,7077,4800000,"AI Conference 2, AI Conference 11, AI Conference 10",Hotel Conference,Outdoor
+Toronto Convention Centre,Toronto,Canada,6356,4600000,"AI Conference 2, AI Conference 17, AI Conference 14",Convention Center,Indoor
+Sydney ICC,Sydney,Australia,6686,700000,"AI Conference 20, AI Conference 3, AI Conference 2",Hotel Conference,Hybrid

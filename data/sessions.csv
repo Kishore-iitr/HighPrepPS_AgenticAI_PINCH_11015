@@ -1,0 +1,31 @@
+session_id,speaker_name,topic,duration,priority,track,expected_audience
+S1,Speaker 1,AI Ethics,60,normal,Workshops,573
+S2,Speaker 2,Computer Vision,60,normal,AI Research,110
+S3,Speaker 3,Deep Learning,30,normal,AI Research,379
+S4,Speaker 4,AI Ethics,30,normal,Industry,302
+S5,Speaker 5,AI Ethics,45,normal,Industry,617
+S6,Speaker 6,MLOps,45,normal,Industry,273
+S7,Speaker 7,MLOps,60,keynote,Workshops,704
+S8,Speaker 8,AI Ethics,60,keynote,Industry,713
+S9,Speaker 9,MLOps,30,keynote,AI Research,487
+S10,Speaker 10,Deep Learning,60,normal,Industry,474
+S11,Speaker 11,Computer Vision,60,normal,AI Research,543
+S12,Speaker 12,Computer Vision,60,keynote,Workshops,458
+S13,Speaker 13,Computer Vision,45,keynote,AI Research,172
+S14,Speaker 14,MLOps,45,normal,Industry,488
+S15,Speaker 15,Computer Vision,45,normal,Workshops,591
+S16,Speaker 16,GenAI,60,keynote,Industry,753
+S17,Speaker 17,GenAI,30,keynote,Workshops,479
+S18,Speaker 18,Computer Vision,30,keynote,Workshops,684
+S19,Speaker 19,AI Ethics,60,keynote,AI Research,777
+S20,Speaker 20,MLOps,60,keynote,Workshops,181
+S21,Speaker 21,Computer Vision,45,normal,Industry,560
+S22,Speaker 22,Deep Learning,45,keynote,AI Research,395
+S23,Speaker 23,Deep Learning,30,normal,Industry,559
+S24,Speaker 24,GenAI,30,normal,Industry,670
+S25,Speaker 25,MLOps,30,keynote,Workshops,280
+S26,Speaker 26,GenAI,30,normal,Workshops,457
+S27,Speaker 27,MLOps,60,normal,Industry,597
+S28,Speaker 28,Deep Learning,60,keynote,Industry,138
+S29,Speaker 29,GenAI,30,keynote,Industry,184
+S30,Speaker 30,GenAI,60,keynote,Workshops,477

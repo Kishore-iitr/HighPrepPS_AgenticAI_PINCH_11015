@@ -1,0 +1,201 @@
+event_name,company_name,category,domain
+AI Conference 1,AMD,Individual,Automation
+AI Conference 1,HuggingFace,Tools,Analytics
+AI Conference 1,Scale AI,Individual,Analytics
+AI Conference 1,NVIDIA,Individual,AI Platform
+AI Conference 1,Anthropic,Startup,Analytics
+AI Conference 1,Oracle,Individual,Automation
+AI Conference 1,Runway,Startup,AI Platform
+AI Conference 1,Microsoft Azure,Startup,GenAI Tools
+AI Conference 1,Automation Anywhere,Tools,Analytics
+AI Conference 1,TCS,Startup,GenAI Tools
+AI Conference 2,Zoho,Enterprise,Cloud
+AI Conference 2,Scale AI,Startup,Analytics
+AI Conference 2,Automation Anywhere,Individual,GenAI Tools
+AI Conference 2,Freshworks,Tools,Automation
+AI Conference 2,AWS,Startup,Automation
+AI Conference 2,DataRobot,Tools,Cloud
+AI Conference 2,Snowflake,Startup,AI Platform
+AI Conference 2,Oracle,Individual,Automation
+AI Conference 2,Microsoft Azure,Individual,Automation
+AI Conference 2,NVIDIA,Startup,AI Platform
+AI Conference 3,KPMG,Individual,GenAI Tools
+AI Conference 3,SAP,Tools,GenAI Tools
+AI Conference 3,Scale AI,Enterprise,AI Platform
+AI Conference 3,PwC,Tools,GenAI Tools
+AI Conference 3,Accenture,Individual,Automation
+AI Conference 3,Databricks,Individual,Cloud
+AI Conference 3,Anthropic,Enterprise,Automation
+AI Conference 3,UiPath,Enterprise,AI Platform
+AI Conference 3,Midjourney,Tools,Analytics
+AI Conference 3,Infosys,Tools,AI Platform
+AI Conference 4,KPMG,Enterprise,Analytics
+AI Conference 4,AWS,Individual,AI Platform
+AI Conference 4,TCS,Tools,Cloud
+AI Conference 4,PwC,Individual,GenAI Tools
+AI Conference 4,Anthropic,Individual,Automation
+AI Conference 4,Automation Anywhere,Startup,Automation
+AI Conference 4,Scale AI,Tools,Automation
+AI Conference 4,Intel,Enterprise,GenAI Tools
+AI Conference 4,Deloitte,Tools,GenAI Tools
+AI Conference 4,Accenture,Individual,GenAI Tools
+AI Conference 5,Databricks,Startup,AI Platform
+AI Conference 5,Accenture,Tools,Automation
+AI Conference 5,Snowflake,Startup,Cloud
+AI Conference 5,TCS,Enterprise,Automation
+AI Conference 5,Cohere,Tools,Cloud
+AI Conference 5,DataRobot,Tools,AI Platform
+AI Conference 5,Runway,Individual,GenAI Tools
+AI Conference 5,AMD,Individual,GenAI Tools
+AI Conference 5,UiPath,Individual,Automation
+AI Conference 5,PwC,Enterprise,Cloud
+AI Conference 6,Accenture,Tools,Cloud
+AI Conference 6,Wipro,Enterprise,GenAI Tools
+AI Conference 6,Scale AI,Startup,Analytics
+AI Conference 6,UiPath,Enterprise,Analytics
+AI Conference 6,Oracle,Tools,Analytics
+AI Conference 6,Runway,Tools,Cloud
+AI Conference 6,Stability AI,Individual,GenAI Tools
+AI Conference 6,AWS,Individual,Analytics
+AI Conference 6,Zoho,Enterprise,Automation
+AI Conference 6,TCS,Startup,Analytics
+AI Conference 7,AMD,Enterprise,Analytics
+AI Conference 7,Cohere,Individual,AI Platform
+AI Conference 7,Oracle,Startup,GenAI Tools
+AI Conference 7,Snowflake,Tools,Analytics
+AI Conference 7,Midjourney,Tools,GenAI Tools
+AI Conference 7,Databricks,Enterprise,Automation
+AI Conference 7,Wipro,Individual,GenAI Tools
+AI Conference 7,Accenture,Startup,AI Platform
+AI Conference 7,Anthropic,Individual,Analytics
+AI Conference 7,Automation Anywhere,Individual,Cloud
+AI Conference 8,Stability AI,Startup,Cloud
+AI Conference 8,OpenAI,Tools,Automation
+AI Conference 8,NVIDIA,Startup,GenAI Tools
+AI Conference 8,Wipro,Tools,Analytics
+AI Conference 8,AWS,Individual,GenAI Tools
+AI Conference 8,Microsoft Azure,Individual,Automation
+AI Conference 8,Databricks,Individual,Cloud
+AI Conference 8,SAP,Tools,Automation
+AI Conference 8,Deloitte,Tools,AI Platform
+AI Conference 8,UiPath,Enterprise,AI Platform
+AI Conference 9,UiPath,Startup,GenAI Tools
+AI Conference 9,IBM,Startup,Cloud
+AI Conference 9,Scale AI,Enterprise,Cloud
+AI Conference 9,Deloitte,Startup,Automation
+AI Conference 9,KPMG,Individual,Automation
+AI Conference 9,AWS,Individual,Analytics
+AI Conference 9,Microsoft Azure,Tools,AI Platform
+AI Conference 9,Anthropic,Individual,Cloud
+AI Conference 9,HuggingFace,Tools,Cloud
+AI Conference 9,Wipro,Enterprise,AI Platform
+AI Conference 10,Anthropic,Enterprise,Automation
+AI Conference 10,Intel,Tools,GenAI Tools
+AI Conference 10,HuggingFace,Startup,Cloud
+AI Conference 10,SAP,Startup,AI Platform
+AI Conference 10,TCS,Tools,GenAI Tools
+AI Conference 10,AWS,Enterprise,Automation
+AI Conference 10,Snowflake,Enterprise,AI Platform
+AI Conference 10,KPMG,Startup,GenAI Tools
+AI Conference 10,Oracle,Individual,Cloud
+AI Conference 10,DataRobot,Individual,GenAI Tools
+AI Conference 11,UiPath,Tools,Cloud
+AI Conference 11,Infosys,Individual,Automation
+AI Conference 11,Automation Anywhere,Tools,GenAI Tools
+AI Conference 11,SAP,Startup,Cloud
+AI Conference 11,Cohere,Startup,Automation
+AI Conference 11,Midjourney,Individual,AI Platform
+AI Conference 11,Zoho,Tools,Analytics
+AI Conference 11,Snowflake,Startup,Cloud
+AI Conference 11,TCS,Startup,Cloud
+AI Conference 11,KPMG,Startup,AI Platform
+AI Conference 12,Zoho,Individual,GenAI Tools
+AI Conference 12,Stability AI,Startup,GenAI Tools
+AI Conference 12,IBM,Individual,GenAI Tools
+AI Conference 12,AWS,Individual,Analytics
+AI Conference 12,Intel,Tools,Cloud
+AI Conference 12,AMD,Tools,Automation
+AI Conference 12,Databricks,Enterprise,Analytics
+AI Conference 12,Deloitte,Individual,Automation
+AI Conference 12,Scale AI,Enterprise,Automation
+AI Conference 12,Microsoft Azure,Startup,AI Platform
+AI Conference 13,IBM,Tools,Analytics
+AI Conference 13,Anthropic,Tools,Cloud
+AI Conference 13,HuggingFace,Tools,GenAI Tools
+AI Conference 13,Google Cloud,Individual,Cloud
+AI Conference 13,Deloitte,Individual,AI Platform
+AI Conference 13,Oracle,Tools,Automation
+AI Conference 13,Cohere,Tools,GenAI Tools
+AI Conference 13,Databricks,Startup,Automation
+AI Conference 13,KPMG,Tools,AI Platform
+AI Conference 13,Automation Anywhere,Individual,Analytics
+AI Conference 14,Cohere,Tools,Automation
+AI Conference 14,Oracle,Enterprise,Analytics
+AI Conference 14,Stability AI,Tools,Analytics
+AI Conference 14,TCS,Tools,Cloud
+AI Conference 14,OpenAI,Startup,Analytics
+AI Conference 14,Scale AI,Individual,AI Platform
+AI Conference 14,Automation Anywhere,Individual,AI Platform
+AI Conference 14,Google Cloud,Startup,AI Platform
+AI Conference 14,HuggingFace,Enterprise,GenAI Tools
+AI Conference 14,Databricks,Startup,AI Platform
+AI Conference 15,KPMG,Individual,AI Platform
+AI Conference 15,PwC,Tools,GenAI Tools
+AI Conference 15,Zoho,Individual,Automation
+AI Conference 15,Snowflake,Tools,GenAI Tools
+AI Conference 15,AMD,Individual,AI Platform
+AI Conference 15,Deloitte,Enterprise,Automation
+AI Conference 15,Google Cloud,Tools,GenAI Tools
+AI Conference 15,Freshworks,Individual,Automation
+AI Conference 15,OpenAI,Enterprise,Cloud
+AI Conference 15,Databricks,Individual,GenAI Tools
+AI Conference 16,NVIDIA,Startup,GenAI Tools
+AI Conference 16,KPMG,Individual,Cloud
+AI Conference 16,Accenture,Tools,GenAI Tools
+AI Conference 16,Anthropic,Enterprise,Cloud
+AI Conference 16,Scale AI,Startup,Analytics
+AI Conference 16,PwC,Tools,Analytics
+AI Conference 16,Deloitte,Individual,GenAI Tools
+AI Conference 16,OpenAI,Tools,Cloud
+AI Conference 16,HuggingFace,Enterprise,Automation
+AI Conference 16,TCS,Tools,Analytics
+AI Conference 17,Zoho,Enterprise,Automation
+AI Conference 17,OpenAI,Tools,Automation
+AI Conference 17,Automation Anywhere,Individual,GenAI Tools
+AI Conference 17,Databricks,Enterprise,GenAI Tools
+AI Conference 17,Accenture,Startup,GenAI Tools
+AI Conference 17,Runway,Tools,AI Platform
+AI Conference 17,Scale AI,Tools,GenAI Tools
+AI Conference 17,HuggingFace,Enterprise,GenAI Tools
+AI Conference 17,Intel,Startup,Automation
+AI Conference 17,KPMG,Enterprise,Automation
+AI Conference 18,IBM,Tools,AI Platform
+AI Conference 18,Databricks,Tools,Automation
+AI Conference 18,Zoho,Enterprise,Analytics
+AI Conference 18,Infosys,Individual,Cloud
+AI Conference 18,NVIDIA,Individual,GenAI Tools
+AI Conference 18,Accenture,Tools,Analytics
+AI Conference 18,Deloitte,Individual,Cloud
+AI Conference 18,Stability AI,Tools,Automation
+AI Conference 18,UiPath,Enterprise,AI Platform
+AI Conference 18,AMD,Tools,AI Platform
+AI Conference 19,Scale AI,Tools,Analytics
+AI Conference 19,Stability AI,Tools,AI Platform
+AI Conference 19,Snowflake,Startup,Analytics
+AI Conference 19,OpenAI,Individual,Cloud
+AI Conference 19,AMD,Individual,GenAI Tools
+AI Conference 19,SAP,Enterprise,GenAI Tools
+AI Conference 19,Runway,Startup,Cloud
+AI Conference 19,DataRobot,Enterprise,GenAI Tools
+AI Conference 19,Freshworks,Tools,Automation
+AI Conference 19,PwC,Individual,AI Platform
+AI Conference 20,Freshworks,Startup,Cloud
+AI Conference 20,AWS,Startup,GenAI Tools
+AI Conference 20,Databricks,Enterprise,Cloud
+AI Conference 20,Cohere,Tools,GenAI Tools
+AI Conference 20,Wipro,Enterprise,AI Platform
+AI Conference 20,Zoho,Startup,GenAI Tools
+AI Conference 20,Midjourney,Startup,GenAI Tools
+AI Conference 20,PwC,Startup,GenAI Tools
+AI Conference 20,Google Cloud,Individual,Analytics
+AI Conference 20,Infosys,Startup,Automation
