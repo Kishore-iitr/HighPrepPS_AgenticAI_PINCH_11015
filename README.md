@@ -61,6 +61,10 @@ streamlit run main.py
 - Optional Tavily web enrichment and LangSmith tracing support
 - Outreach drafting with Gmail send support when credentials are available
 
+
+  <img width="1445" height="645" alt="grpah_basic" src="https://github.com/user-attachments/assets/bf292a4a-9c0d-4e61-b52f-19a90af5cc3c" />
+
+
 ## Notes for hosting
 
 - Keep the CSV files and Chroma database folders in the repo.
