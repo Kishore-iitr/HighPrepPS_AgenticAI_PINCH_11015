@@ -1,28 +1,29 @@
-streamlit==1.36.0
-python-dotenv==1.0.1
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.4.2
+streamlit
+python-dotenv
+pandas
+numpy
+scikit-learn
 
-langchain==0.2.14
-langchain-core==0.2.32
-langchain-community==0.2.12
-langchain-openai==0.1.22
-langgraph==0.2.16
-langsmith==0.1.147
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langgraph
+langsmith
 
-chromadb==0.5.5
-sentence-transformers==2.7.0
-transformers==4.41.2   # 🔥 important fix
-tavily-python==0.3.3
+chromadb
+sentence-transformers
+tavily-python
+torch
+torchvision
 
-requests==2.32.3
-tqdm==4.66.4
-beautifulsoup4==4.12.3
-lxml==5.2.2
-
-matplotlib==3.9.0
-
-google-api-python-client==2.137.0
-google-auth-httplib2==0.2.0
-google-auth-oauthlib==1.2.1
+# Utilities used in notebooks and data workflows
+requests
+tqdm
+kaggle
+beautifulsoup4
+lxml
+matplotlib
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
