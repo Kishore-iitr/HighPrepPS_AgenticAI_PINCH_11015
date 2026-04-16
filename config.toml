@@ -1,7 +1,0 @@
-[theme]
-base="light"
-primaryColor="#6366F1"              # Indigo (modern SaaS feel)
-backgroundColor="#F9FAFB"
-secondaryBackgroundColor="#FFFFFF"
-textColor="#111827"
-font="sans serif"
