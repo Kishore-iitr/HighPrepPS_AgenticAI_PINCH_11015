@@ -1,7 +1,0 @@
-
-
-.env
-.env.*
-
-!.streamlit/
-!.streamlit/*
