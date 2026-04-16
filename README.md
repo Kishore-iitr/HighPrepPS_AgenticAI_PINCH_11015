@@ -4,6 +4,8 @@ VIDEO EXPLAINATION: [LINK](https://iitracin-my.sharepoint.com/:v:/g/personal/kis
 
 REPORT: [LINK](https://iitracin-my.sharepoint.com/:b:/g/personal/kishore_s_ph_iitr_ac_in/IQB02Q5Gyx8aSLcgqHBhwgK8AT_FX_Sp3mjjZfxHctE9wKc?e=8AkzZj)
 
+WEBSITE : [LINK](https://eventplannerv1agent.streamlit.app/)
+
 # Agentic Event Planner
 
 This workspace now includes a hostable Streamlit website that turns the notebook flows into an interactive event-planning app.
