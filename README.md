@@ -4,9 +4,8 @@ VIDEO EXPLAINATION: [LINK](https://iitracin-my.sharepoint.com/:v:/g/personal/kis
 
 REPORT: [LINK](https://iitracin-my.sharepoint.com/:b:/g/personal/kishore_s_ph_iitr_ac_in/IQB02Q5Gyx8aSLcgqHBhwgK8AT_FX_Sp3mjjZfxHctE9wKc?e=fR6xLE)
 
-WEBSITE : [LINK](https://eventplannerv1agent.streamlit.app/)
+ PRODUCT: [LINK](https://eventplannerv1agent.streamlit.app/)
 
-PRODUCT:
 
 <img width="1918" height="869" alt="image" src="https://github.com/user-attachments/assets/1a6420c4-345d-4647-a7e5-6b13cd18eb2c" />
 
