@@ -6,6 +6,11 @@ REPORT: [LINK](https://iitracin-my.sharepoint.com/:b:/g/personal/kishore_s_ph_ii
 
 WEBSITE : [LINK](https://eventplannerv1agent.streamlit.app/)
 
+PRODUCT:
+
+<img width="1918" height="869" alt="image" src="https://github.com/user-attachments/assets/1a6420c4-345d-4647-a7e5-6b13cd18eb2c" />
+
+
 # Agentic Event Planner
 
 This workspace now includes a hostable Streamlit website that turns the notebook flows into an interactive event-planning app.
@@ -67,6 +72,9 @@ streamlit run main.py
 - Chroma vector database loading from the existing data directories
 - Optional Tavily web enrichment and LangSmith tracing support
 - Outreach drafting with Gmail send support when credentials are available
+
+For Traceability and monitoring (LANGSMITH)
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/4c1ed49b-0cf1-4b04-a3e5-285dca59ffd8" />
 
 
   <img width="1445" height="645" alt="grpah_basic" src="https://github.com/user-attachments/assets/bf292a4a-9c0d-4e61-b52f-19a90af5cc3c" />
