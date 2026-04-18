@@ -4278,12 +4278,46 @@ def render_csv_upload_interface() -> None:
             st.warning(f"File not found: {source_path}")
             st.info("Upload and ingest the CSV file first.")
 
+# ...existing code...
+
+def set_runtime_setting(name: str, value: str) -> None:
+    st.session_state[f"runtime_{name.lower()}"] = safe_text(value)
+
+
+def initialize_runtime_settings_from_env(force: bool = False) -> None:
+    """
+    Prefill runtime settings from .env/environment on first app load.
+    If force=True, overwrite current runtime values.
+    """
+    defaults = {
+        "OPENROUTER_API_KEY": OPENROUTER_API_KEY,
+        "TAVILY_API_KEY": TAVILY_API_KEY,
+        "LANGSMITH_API_KEY": LANGSMITH_API_KEY,
+        "LANGCHAIN_API_KEY": LANGCHAIN_API_KEY,
+        "LANGCHAIN_PROJECT": LANGCHAIN_PROJECT,
+        "LANGCHAIN_ENDPOINT": LANGCHAIN_ENDPOINT,
+    }
+
+    for setting_name in RUNTIME_SETTING_KEYS.keys():
+        session_key = f"runtime_{setting_name.lower()}"
+        if force or session_key not in st.session_state:
+            st.session_state[session_key] = get_runtime_setting(
+                setting_name,
+                defaults.get(setting_name, ""),
+            )
+
+# ...existing code...
 
 # ═══════════════════════════════════════════════════════════════════════════
 # MAIN STREAMLIT APP
 # ═══════════════════════════════════════════════════════════════════════════
 
 def main() -> None:
+
+    if "runtime_settings_initialized" not in st.session_state:
+        initialize_runtime_settings_from_env(force=False)
+        st.session_state["runtime_settings_initialized"] = True
+
     st.write("")
     render_settings_panel()
     render_status_badges()
